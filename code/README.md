@@ -10,7 +10,7 @@ Till now i have learnt various function in Python
 - if and elif
 - def
 and many more
-### while doing this project i learnt to use turtle and make a snake game, i learnt about turtle and how it can be beneficial for me to make a drawing board and i can just draw anything over it. Moreover, i tried to learn tkinter but it was quite complex and i didnt quite understand it, but right now i am trying to learn it and i will try to implement it in the future
+### while doing this project i learnt and researched about use turtle and make a snake game, i learnt about turtle and how it can be beneficial for me to make a drawing board and i can just draw anything over it. It is like a library in which that enables us to create pictures and shapes by prpviding them with a virtual canvas. Moreover, i tried to learn tkinter but it was quite complex and i didnt quite understand it, but right now i am trying to learn it and i will try to implement it in the future
 
 ### Apart from that, doing this project made me learn if and elif conditon more precisely and even in the ticket system i made i learnt over there as well.
 
